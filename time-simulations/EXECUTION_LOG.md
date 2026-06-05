@@ -1,6 +1,6 @@
 # Time Simulations — Execution Log
 **Date:** 2026-06-04  
-**Platform:** Remote PC 192.168.0.217 (RTX 5060 Ti 16GB, PyTorch 2.12.0+cu130, Python 3.14.4)  
+**Platform:** Remote GPU server (RTX 5060 Ti 16GB, PyTorch 2.12.0+cu130, Python 3.14.4)  
 **Framework:** Modular Clifford Category (MCC) — Time Research
 
 ---
