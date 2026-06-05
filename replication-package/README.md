@@ -64,9 +64,9 @@ python -c "import numpy; import scipy; import matplotlib; import sympy; print('A
 
 ```bash
 # Clone or copy this directory to your workspace
-mkdir -p ~/mcc-replication
-cp -r replication-package/* ~/mcc-replication/
-cd ~/mcc-replication
+mkdir -p ./mcc-replication
+cp -r replication-package/* ./mcc-replication/
+cd ./mcc-replication
 
 # Install dependencies
 pip install numpy scipy matplotlib sympy

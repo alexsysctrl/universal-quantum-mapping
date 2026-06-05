@@ -188,6 +188,6 @@ The framework is PROMISING but needs mathematical correction in several areas be
 ---
 
 *Files generated:*
-- `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/mcc-deep-math/deep-mcc-exploration.md` (1613 lines — main exploration)
-- `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/mcc-deep-math/addendum-deep-dives.md` (deep dives on new threads)
-- `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/mcc-deep-math/final-summary.md` (this file)
+- `.//mcc-deep-math/deep-mcc-exploration.md` (1613 lines — main exploration)
+- `.//mcc-deep-math/addendum-deep-dives.md` (deep dives on new threads)
+- `.//mcc-deep-math/final-summary.md` (this file)

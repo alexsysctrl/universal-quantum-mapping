@@ -4,7 +4,7 @@ generate_all_figures.py — Generate all 15 publication-quality cosmic timeline 
 
 Framework: Modular Clifford Category (MCC)
 Output: PNG (300 DPI) + PDF for each figure
-Directory: /Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/cosmic-figures/
+Directory: .//cosmic-figures/
 """
 
 import os

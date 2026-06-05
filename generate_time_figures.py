@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Circle, Rectangle
 import matplotlib.patches as mpatches
 
-OUTPUT_DIR = "/Users/alex/Desktop/work/Universal_Quantum_Mapping/time-figures"
+OUTPUT_DIR = ".//time-figures"
 FIGSIZE = (10, 7)
 DPI = 150
 

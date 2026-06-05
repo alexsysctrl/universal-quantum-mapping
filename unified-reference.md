@@ -667,7 +667,7 @@ Advanced structures:
 All simulations are located in:
 
 ```
-/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/verification/replication-package/
+.//verification/replication-package/
 ```
 
 ### 8.1 Files
@@ -697,7 +697,7 @@ sympy >= 1.12
 ### 8.3 Quick Start
 
 ```bash
-cd /Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/verification/replication-package/
+cd .//verification/replication-package/
 
 # Check dependencies
 python check_dependencies.py

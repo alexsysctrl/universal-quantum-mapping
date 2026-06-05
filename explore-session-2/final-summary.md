@@ -237,9 +237,9 @@ Substantially further. The most promising directions are:
 | Novel mathematics | Basic definitions | Mixed index theorem, braided categories, negative curvature |
 
 ### Files Generated in Session 2
-1. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-2/session-2-deep-mcc-exploration.md` — Main exploration (21 sections)
-2. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-2/session-2-addendum.md` — Deep dives on key derivations
-3. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-2/final-summary.md` — This file
+1. `.//explore-session-2/session-2-deep-mcc-exploration.md` — Main exploration (21 sections)
+2. `.//explore-session-2/session-2-addendum.md` — Deep dives on key derivations
+3. `.//explore-session-2/final-summary.md` — This file
 
 ---
 

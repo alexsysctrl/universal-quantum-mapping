@@ -3,7 +3,7 @@
 **Date:** 2026-06-04  
 **Author:** Scientific Data Research Agent  
 **Purpose:** Identify existing, publicly accessible scientific datasets that could test Modular Clifford Category (MCC) framework predictions  
-**Framework Reference:** `/Users/alex/Desktop/work/Universal_Quantum_Mapping/flawless-mcc-paper.md`, `testable-predictions.md`, `time-research.md`
+**Framework Reference:** `.//flawless-mcc-paper.md`, `testable-predictions.md`, `time-research.md`
 
 ---
 

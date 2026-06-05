@@ -207,9 +207,9 @@ Substantially further, but with diminishing returns. The core mathematical frame
 5. Octonionic/non-associative extensions (needs new foundations)
 
 ### Files Generated in Session 3
-1. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-3/session-3-deep-mcc-exploration.md` — Main exploration (11 sections)
-2. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-3/session-3-addendum.md` — Deep dives on key derivations
-3. `/Users/alex/Desktop/Neural_Arch_Lab/research/logs/universal-quantum-mapping/explore-session-3/final-summary.md` — This file
+1. `.//explore-session-3/session-3-deep-mcc-exploration.md` — Main exploration (11 sections)
+2. `.//explore-session-3/session-3-addendum.md` — Deep dives on key derivations
+3. `.//explore-session-3/final-summary.md` — This file
 
 ---
 
