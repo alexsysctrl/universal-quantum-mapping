@@ -359,6 +359,13 @@ The simulation code verifies:
 
 ---
 
+
+---
+
+## Related Framework
+
+The **[Derived Modular Spectrum (DMS)](https://github.com/alexsysctrl/dms-framework)** extends the Modular Clifford Category to derived categories and higher structures. Where the MCC derives quantum dynamics from a single modular Clifford module, the DMS lifts the modular operator to a modular spectral functor across derived categories, producing over 1 million words of analysis across 282 files.
+
 ## License
 
 MIT
